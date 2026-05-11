@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mkhaya-flavor-fusion.lovable.app/sitemap.xml
